@@ -5,28 +5,8 @@ There is a folder name "node_modules" which is too big to upload.
 
 
 
-History:
+The other two team handle APIs part, our team are focus on Mobile APP.
 
-Mar 16 2021 update:
+This project developed by React Natice.
 
-"Prototype UI for login page"
-
-
-
-Mar 21 2021 update:
-
-"finish prototype UI and screens design and pages jumping/navigation"
-
-
-
-Mar 29 2021 update:
-
-"finish prototype app for Sprint1"
-
-
-
-Mar 30 2021 update:
-
-"Re-build every screen according to Sprint1 review by Dr. Holdener" 
-
-
+Download all files, run npm install, then run npm start.
